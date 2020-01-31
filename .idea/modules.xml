@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Barrier/Barrier.iml" filepath="$PROJECT_DIR$/Barrier/Barrier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hashtable/Hashtable.iml" filepath="$PROJECT_DIR$/Hashtable/Hashtable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semaphore/Semaphore.iml" filepath="$PROJECT_DIR$/Semaphore/Semaphore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Server/Server.iml" filepath="$PROJECT_DIR$/Server/Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task/Task.iml" filepath="$PROJECT_DIR$/Task/Task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practic_08_11/practic_08_11.iml" filepath="$PROJECT_DIR$/practic_08_11/practic_08_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar-task-15-11/seminar-task-15-11.iml" filepath="$PROJECT_DIR$/seminar-task-15-11/seminar-task-15-11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar-task-22-11/seminar-task-22-11.iml" filepath="$PROJECT_DIR$/seminar-task-22-11/seminar-task-22-11.iml" />
+    </modules>
+  </component>
+</project>
